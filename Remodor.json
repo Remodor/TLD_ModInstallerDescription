@@ -3,15 +3,15 @@
 	"authorURL": "https://github.com/Remodor",
 	"mods": [
 		{
-			"name": "Relative Consumption Time",
+			"name": "RelativeConsumptionTime",
 			"version": "1.2.1",
 			"updated": "2021-03-20",
 			"description": "Small QoL mod which changes the absolute time for eating and drinking to a configurable relative time in proportion to the consumed amount.",
 			"modURL": "https://github.com/Remodor/TLD_RelativeConsumptionTime",
 			"downloadURL": "https://github.com/Remodor/TLD_RelativeConsumptionTime/releases/download/v1.2.1/RelativeConsumptionTime.dll",
 			"testedon": {
-				"tldversion": "1.93",
-				"mlversion": "0.2.7.4"
+				"tldversion": "1.94",
+				"mlversion": "0.4.1.0"
 			},
 			"dependencies": [
 				"ModSettings"
@@ -32,8 +32,8 @@
 			"modURL": "https://github.com/Remodor/TLD_Ankle-Support",
 			"downloadURL": "https://github.com/Remodor/TLD_Ankle-Support/releases/download/v5.0/Ankle-Support.dll",
 			"testedon": {
-				"tldversion": "1.93",
-				"mlversion": "0.2.7.4"
+				"tldversion": "1.94",
+				"mlversion": "0.4.1.0"
 			},
 			"dependencies": [
 				"ModSettings"
@@ -45,15 +45,15 @@
 			}
 		},
 		{
-			"name": "Weapon Improvements",
+			"name": "WeaponImprovements",
 			"version": "1.0.0",
 			"updated": "2021-03-23",
 			"description": "Small configurable QoL mod which improves the weapon handling and adds the ability to interrupt the reloading process or disable the ammo hud.",
 			"modURL": "https://github.com/Remodor/TLD_WeaponImprovements",
 			"downloadURL": "https://github.com/Remodor/TLD_WeaponImprovements/releases/download/v1.0/WeaponImprovements.dll",
 			"testedon": {
-				"tldversion": "1.93",
-				"mlversion": "0.2.7.4"
+				"tldversion": "1.94",
+				"mlversion": "0.4.1.0"
 			},
 			"dependencies": [
 				"ModSettings"
@@ -65,15 +65,15 @@
 			}
 		},
 		{
-			"name": "Fire Improvements",
+			"name": "FireImprovements",
 			"version": "1.1.0",
 			"updated": "2021-03-31",
 			"description": "Configurable QoL mod all around fire. Including, remember last used fire item, better item sorting for fire starting, better torch/ flare support for fire starting, better torch usability outside of fire starting, configurable no-tinder penalty and no magic fire duration boost.",
 			"modURL": "https://github.com/Remodor/TLD_FireImprovements",
 			"downloadURL": "https://github.com/Remodor/TLD_FireImprovements/releases/download/v1.1/FireImprovements.dll",
 			"testedon": {
-				"tldversion": "1.93",
-				"mlversion": "0.2.7.4"
+				"tldversion": "1.94",
+				"mlversion": "0.4.1.0"
 			},
 			"dependencies": [
 				"ModSettings"
@@ -85,7 +85,7 @@
 			}
 		},
 		{
-			"name": "Animal Behavior",
+			"name": "AnimalBehavior",
 			"author": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>, <a href='https://github.com/ds5678' target='_blank'>ds5678</a> and <a href='https://github.com/Remodor' target='_blank'>Remodor</a>",
 			"authorURL": "-",
 			"version": "1.0.0",
@@ -94,8 +94,8 @@
 			"modURL": "https://github.com/Remodor/TLD_AnimalBehavior",
 			"downloadURL": "https://github.com/Remodor/TLD_AnimalBehavior/releases/download/v1.0/AnimalBehavior.dll",
 			"testedon": {
-				"tldversion": "1.93",
-				"mlversion": "0.2.7.4"
+				"tldversion": "1.94",
+				"mlversion": "0.4.1.0"
 			},
 			"dependencies": [
 				"ModSettings"
