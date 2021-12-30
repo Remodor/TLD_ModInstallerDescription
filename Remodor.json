@@ -10,7 +10,7 @@
 			"modURL": "https://github.com/Remodor/TLD_RelativeConsumptionTime",
 			"downloadURL": "https://github.com/Remodor/TLD_RelativeConsumptionTime/releases/download/v1.2.1/RelativeConsumptionTime.dll",
 			"testedon": {
-				"tldversion": "1.94",
+				"tldversion": "1.99",
 				"mlversion": "0.4.1.0"
 			},
 			"dependencies": [
@@ -32,7 +32,7 @@
 			"modURL": "https://github.com/Remodor/TLD_Ankle-Support",
 			"downloadURL": "https://github.com/Remodor/TLD_Ankle-Support/releases/download/v5.0/Ankle-Support.dll",
 			"testedon": {
-				"tldversion": "1.94",
+				"tldversion": "1.99",
 				"mlversion": "0.4.1.0"
 			},
 			"dependencies": [
@@ -94,7 +94,7 @@
 			"modURL": "https://github.com/Remodor/TLD_AnimalBehavior",
 			"downloadURL": "https://github.com/Remodor/TLD_AnimalBehavior/releases/download/v1.0/AnimalBehavior.dll",
 			"testedon": {
-				"tldversion": "1.94",
+				"tldversion": "1.99",
 				"mlversion": "0.4.1.0"
 			},
 			"dependencies": [
