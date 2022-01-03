@@ -66,11 +66,11 @@
 		},
 		{
 			"name": "FireImprovements",
-			"version": "1.5.0",
-			"updated": "2022-01-02",
+			"version": "1.5.1",
+			"updated": "2022-01-03",
 			"description": "Configurable QoL mod all around fire. Including, remember last used fire item, better item sorting for fire starting, better torch/ flare support for fire starting, better torch usability outside of fire starting, configurable no-tinder penalty and no magic fire duration boost.",
 			"modURL": "https://github.com/Remodor/TLD_FireImprovements",
-			"downloadURL": "https://github.com/Remodor/TLD_FireImprovements/releases/download/v1.5/FireImprovements.dll",
+			"downloadURL": "https://github.com/Remodor/TLD_FireImprovements/releases/download/v1.5.1/FireImprovements.dll",
 			"testedon": {
 				"tldversion": "1.99",
 				"mlversion": "0.5.2.0"
