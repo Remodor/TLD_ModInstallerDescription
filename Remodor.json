@@ -4,11 +4,11 @@
 	"mods": [
 		{
 			"name": "RelativeConsumptionTime",
-			"version": "1.2.1",
-			"updated": "2021-03-20",
-			"description": "Small QoL mod which changes the absolute time for eating and drinking to a configurable relative time in proportion to the consumed amount.",
+			"version": "2.0.0",
+			"updated": "2022-01-03",
+			"description": "Small QoL mod which changes the absolute time for eating and drinking to a configurable relative time in proportion to the consumed amount. Now also includes relative durations for actions like waiting, harvesting, breaking down, etc.",
 			"modURL": "https://github.com/Remodor/TLD_RelativeConsumptionTime",
-			"downloadURL": "https://github.com/Remodor/TLD_RelativeConsumptionTime/releases/download/v1.2.1/RelativeConsumptionTime.dll",
+			"downloadURL": "https://github.com/Remodor/TLD_RelativeConsumptionTime/releases/download/v2.0.0/RelativeConsumptionTime.dll",
 			"testedon": {
 				"tldversion": "1.99",
 				"mlversion": "0.4.1.0"
